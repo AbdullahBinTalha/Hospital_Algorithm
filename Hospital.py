@@ -3,7 +3,8 @@
 import random as R
 import time as T
 ##################### FUNCTIONS AREA #######################################
-
+#my code is program
+print("hello world")
 def DOC():
     T.sleep(0)
     print(".")
